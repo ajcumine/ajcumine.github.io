@@ -10,14 +10,21 @@ I am a junior web developer living in London. I have a passion for making things
 
 * Ruby
 * TDD
+* RSpec
 * Rails
 * Javascript
-* JQuery
+* LiveScript
+* Node
 * JSON
-* CSS
-* HTML
+* CSS3
+* SASS/SCSS
+* HTML5
+* Jade
+* Slim
 
 ### A little about me: 
+
+I am currently working as a software engineer at [Red Badger](http://www.red-badger.com) in London.
 
 On the 9th of May 2014 I graduated [Makers Academy](http://www.makersacademy.com), a highly selective, 12 week full-time programme that teaches web development.
 
